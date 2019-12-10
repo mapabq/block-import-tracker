@@ -5,7 +5,7 @@
 ### When a block import is in progress wrap in add your initials after bullet and when it is complete wrap the line with double tilde \~\~ to cross it out 
 
 
- * ### 350010001071001 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001071001.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001071001.osm)  - 70 features
+ * ### ~~RB 350010001071001 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001071001.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001071001.osm)  - 70 features~~
 
  * ### 350010001071014 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001071014.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001071014.osm)  - 22 features
 
