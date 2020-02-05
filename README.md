@@ -85,7 +85,7 @@
 
  * ### ~~RB 350010001224021 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001224021.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001224021.osm)  - 40 features~~
 
- * ### 350010001224022 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001224022.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001224022.osm)  - 37 features
+ * ### ~~RB 350010001224022 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001224022.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001224022.osm)  - 37 features~~
 
  * ### 350010001224031 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001224031.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001224031.osm)  - 34 features
 
