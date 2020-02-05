@@ -77,13 +77,13 @@
 
  * ### ~~RB 350010001221008 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001221008.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001221008.osm)  - 10 features~~
 
- * ### 350010001221020 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001221020.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001221020.osm)  - 30 features
+ * ### ~~RB 350010001221020 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001221020.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001221020.osm)  - 30 features~~
 
- * ### 350010001221021 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001221021.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001221021.osm)  - 30 features
+ * ### ~~RB 350010001221021 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001221021.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001221021.osm)  - 30 features~~
 
  * ### 350010001224012 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001224012.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001224012.osm)  - 1 features
 
- * ### 350010001224021 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001224021.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001224021.osm)  - 40 features
+ * ### ~~RB 350010001224021 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001224021.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001224021.osm)  - 40 features~~
 
  * ### 350010001224022 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010001224022.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010001224022.osm)  - 37 features
 
