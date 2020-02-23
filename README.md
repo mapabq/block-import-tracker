@@ -123,15 +123,15 @@
 
  * ### ~~RB 350010002061015 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010002061015.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010002061015.osm)  - 41 features~~
 
- * ### 350010002071015 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010002071015.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010002071015.osm)  - 34 features
+ * ### ~~RB 350010002071015 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010002071015.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010002071015.osm)  - 34 features~~
 
  * ### 350010002072002 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010002072002.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010002072002.osm)  - 1 features
 
  * ### 350010002072013 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010002072013.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010002072013.osm)  - 1 features
 
- * ### 350010002082018 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010002082018.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010002082018.osm)  - 31 features
+ * ### ~~RB 350010002082018 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010002082018.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010002082018.osm)  - 31 features~~
 
- * ### 350010002082021 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010002082021.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010002082021.osm)  - 50 features
+ * ### ~~RB 350010002082021 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010002082021.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010002082021.osm)  - 50 features~~
 
  * ### 350010002083036 [[view]](https://github.com/mapabq/block-import-tracker/blob/master/geojson/block_350010002083036.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/block_350010002083036.osm)  - 7 features
 
